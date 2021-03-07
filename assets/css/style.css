@@ -126,15 +126,15 @@ h6 {
 #topbar {
   background: #f76ff0;
   color: #fff;
-  height: 70px;
-  font-size: 16px;
+  height: 30px;
+  font-size: 13px;
   font-weight: 600;
   z-index: 996;
   transition: all 0.5s;
 }
 
 #topbar.topbar-scrolled {
-  top: -40px;
+  top: -30px;
 }
 
 #topbar i {
@@ -149,8 +149,8 @@ h6 {
   background: #fff;
   transition: all 0.5s;
   z-index: 997;
-  padding: 20px 0;
-  top: 70px;
+  padding: 15px 0;
+  top: 30px;
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
 }
 
